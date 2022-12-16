@@ -1,6 +1,8 @@
 # Camera Project
 
 This project is built using Next.js and TypeScript, and allows users to take photos of themselves using their camera.
+![image](https://user-images.githubusercontent.com/70272280/207995395-24c31f7d-ee1b-4bb2-90cf-63a15ba95387.png)
+
 
 ## Requirements
 
